@@ -1,2 +1,6 @@
 # First-Config
 firstConfig
+
+
+
+ruti
